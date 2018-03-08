@@ -7,7 +7,8 @@ A solução para o desafio foi feita em RestFul Java Web, usando a IDE NetBeans 
 
 ## Environment Settings
 
- - dataset.json file should be in the directory "C: //"
+ - The dataset.json file should be in the directory "C: //"
+ - The project uses the json and gson libraries, which are located in the "libs" folder inside the project folder. Please add them.
  - Use the Test Services RestFul Web option by right clicking on the project using the NetBeans IDE.
  - With the RestFul Web testing environment open in the browser, use it to test requests
 
